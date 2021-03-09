@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/check_down.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/check_up.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/h.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/ic_add.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/ic_pause.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/ic_resume.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/playw.xml" value="0.1" />
+        <entry key="..\:/Users/Chikezirim/AndroidStudioProjects/CountDownTimer/app/src/main/res/drawable/time.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
